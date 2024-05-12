@@ -1,6 +1,6 @@
 ---
 # Display name
-title: MSCS in UC Davis
+title: Kaiyue Li
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -16,7 +16,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: MSCS
+role: MSCS in UC Davis
 
 # Organizations/Affiliations to show in About widget
 organizations:
