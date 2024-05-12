@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Kaiyue Li
+title: MSCS in UC Davis
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -27,9 +27,8 @@ organizations:
 bio: My research interests include security and computer networks
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - VPN with Tor and how to mitigate TunnelVision (CVE-2024-3661)
+  - IPv6 tunnelling in IPv4 areas
 
 # Education to show in About widget
 education:
@@ -65,9 +64,9 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Gaming
         description: ''
-        percent: 60
+        percent: 80
         icon: person-hiking
         icon_pack: fas
       - name: Cats
@@ -115,5 +114,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Kaiyue Li is an upcomming gradaute student of Computer Science at UC Davis. His research interests include web security, network, and online privacy.
 {style="text-align: justify;"}
