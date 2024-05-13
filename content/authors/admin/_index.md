@@ -16,7 +16,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: BS in Purdue\nMSCS in UC Davis
+role: Code For Fun
 
 # Organizations/Affiliations to show in About widget
 organizations:
