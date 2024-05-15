@@ -35,10 +35,10 @@ education:
   courses:
     - course: MS in Computer Science
       institution: University of California, Davis
-      year: 2024
+      year: 2026
     - course: BS in Computer Science
       institution: Purdue University
-      year: 2020
+      year: 2024
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
